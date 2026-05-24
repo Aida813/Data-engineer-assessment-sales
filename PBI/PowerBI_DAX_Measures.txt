@@ -1,0 +1,254 @@
+Power BI DAX Measures and Dashboard Setup
+========================================
+
+Project: Mid-Level Data Engineer Assessment
+Dashboard: Sales and Customer Analytics Dashboard
+Database: SalesDB
+Tables Used:
+- Transactions
+- Customers
+
+------------------------------------------------------------
+1. Total Sales
+------------------------------------------------------------
+
+Purpose:
+Calculates the total revenue from all sales transactions after discounts.
+
+DAX:
+
+Total Sales = SUM(Transactions[total_value])
+
+Used In:
+- Bar Chart: Total Sales by Region and Category
+- Line Chart: Monthly Sales Trend
+- Top 5 Products by Revenue Table
+- Sales by Revenue Tier Chart
+- Dashboard KPI analysis
+
+------------------------------------------------------------
+2. Average Sale per Transaction
+------------------------------------------------------------
+
+Purpose:
+Calculates the average sales value per transaction.
+
+DAX:
+
+Avg Sale per Transaction = AVERAGE(Transactions[total_value])
+
+Used In:
+- Card visual: Average Sale per Transaction
+
+------------------------------------------------------------
+3. Total Loyalty Points
+------------------------------------------------------------
+
+Purpose:
+Calculates the total loyalty points accumulated by customers.
+
+DAX:
+
+Total Loyalty Points = SUM(Customers[loyalty_points])
+
+Used In:
+- Donut Chart: Loyalty Points Distribution by Region
+
+------------------------------------------------------------
+4. High-Value Transactions
+------------------------------------------------------------
+
+Purpose:
+Counts the number of transactions where total_value is greater than 1000.
+
+DAX:
+
+High Value Transactions =
+CALCULATE(
+    COUNTROWS(Transactions),
+    Transactions[total_value] > 1000
+)
+
+Used In:
+- Card visual: High Value Transactions
+
+------------------------------------------------------------
+5. Sales Year-to-Date
+------------------------------------------------------------
+
+Purpose:
+Calculates the year-to-date sales amount based on the sale_date column.
+
+DAX:
+
+Sales YTD =
+TOTALYTD(
+    [Total Sales],
+    Transactions[sale_date]
+)
+
+Used In:
+- Time-based sales analysis
+- Can be used in line charts, cards, or trend analysis
+
+Note:
+The Transactions[sale_date] column should be set as Date or Date/Time in Power BI.
+
+------------------------------------------------------------
+6. Units Sold
+------------------------------------------------------------
+
+Purpose:
+Calculates the total number of product units sold.
+
+DAX:
+
+Units Sold = SUM(Transactions[quantity])
+
+Used In:
+- Table visual: Top 5 Products by Revenue
+
+------------------------------------------------------------
+7. Total Customers
+------------------------------------------------------------
+
+Purpose:
+Counts the number of unique customers loaded into the Customers table.
+
+DAX:
+
+Total Customers = DISTINCTCOUNT(Customers[customer_id])
+
+Used In:
+- Card visual: Total Customers
+
+------------------------------------------------------------
+Dashboard Visuals Created
+------------------------------------------------------------
+
+1. Bar Chart - Total Sales by Region and Category
+
+Visual Type:
+Clustered Bar Chart
+
+Fields:
+Y-axis:
+- Transactions[region]
+
+X-axis:
+- [Total Sales]
+
+Legend:
+- Transactions[category]
+
+Purpose:
+Shows total revenue contribution by region and product category.
+
+------------------------------------------------------------
+
+2. Line Chart - Monthly Sales Trend
+
+Visual Type:
+Line Chart
+
+Fields:
+X-axis:
+- Transactions[sale_date] grouped by Month
+
+Y-axis:
+- [Total Sales]
+
+Purpose:
+Shows monthly changes in sales revenue over time.
+
+------------------------------------------------------------
+
+3. Table - Top 5 Products by Revenue
+
+Visual Type:
+Table
+
+Fields:
+- Transactions[product_name]
+- Transactions[category]
+- [Units Sold]
+- [Total Sales]
+
+Filter:
+Top N filter applied on Transactions[product_name]:
+- Show Top 5
+- By value: [Total Sales]
+
+Purpose:
+Displays the top 5 revenue-generating products.
+
+------------------------------------------------------------
+
+4. Card Visuals
+
+Visual Type:
+Card
+
+Cards Created:
+- Avg Sale per Transaction
+- Total Customers
+- High Value Transactions
+
+Purpose:
+Provides quick KPI summary for the dashboard.
+
+------------------------------------------------------------
+
+5. Donut Chart - Loyalty Points Distribution by Region
+
+Visual Type:
+Donut Chart
+
+Fields:
+Legend:
+- Customers[region]
+
+Values:
+- [Total Loyalty Points]
+
+Purpose:
+Shows customer loyalty point distribution across regions.
+
+------------------------------------------------------------
+
+6. Additional Visual - Sales by Revenue Tier
+
+Visual Type:
+Column Chart
+
+Fields:
+X-axis:
+- Transactions[revenue_tier]
+
+Y-axis:
+- [Total Sales]
+
+Purpose:
+Shows how much revenue comes from Premium, Standard, and Basic transaction tiers.
+
+------------------------------------------------------------
+Dashboard Insights
+------------------------------------------------------------
+
+1. Premium transactions contribute the highest share of total sales.
+2. Laptop is the top product by revenue.
+3. Electronics is one of the strongest product categories by sales.
+4. Monthly sales show visible changes across the year.
+5. Loyalty points are distributed across multiple customer regions.
+6. The dashboard includes high-value transaction analysis using DAX.
+
+------------------------------------------------------------
+Important Notes
+------------------------------------------------------------
+
+- Transactions[total_value] is created in the Python ETL pipeline.
+- Transactions[discount_amount] is created in the Python ETL pipeline.
+- Transactions[revenue_tier] is created in the Python ETL pipeline.
+- Customers data is loaded through the SSIS package.
+- Power BI connects directly to SQL Server database SalesDB.
+- The final Power BI file should be saved as sales_customer_Dashboard.pbix.
