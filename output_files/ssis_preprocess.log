@@ -1,0 +1,557 @@
+2026-05-23 16:48:39,311 | INFO | Loaded 105 records.
+2026-05-23 16:48:39,315 | WARNING | Record C001: Invalid region: None
+2026-05-23 16:48:39,315 | WARNING | Record C002: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 16:48:39,315 | WARNING | Record C003: Invalid region: Unknown; Missing loyalty_points
+2026-05-23 16:48:39,316 | WARNING | Record C004: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 16:48:39,316 | WARNING | Record C005: Invalid email: None; Invalid region: Unknown
+2026-05-23 16:48:39,316 | WARNING | Record C006: Invalid join_date: invalid_date
+2026-05-23 16:48:39,316 | WARNING | Record C007: Invalid email: invalid_email
+2026-05-23 16:48:39,316 | WARNING | Record C008: Outlier loyalty_points: 3483636 (capped to 100000)
+2026-05-23 16:48:39,316 | WARNING | Record C009: Invalid region: Unknown
+2026-05-23 16:48:39,316 | WARNING | Record C011: Invalid region: None; Missing loyalty_points
+2026-05-23 16:48:39,316 | WARNING | Record C014: Invalid email: ; Invalid region: Unknown
+2026-05-23 16:48:39,316 | WARNING | Record C015: Invalid region: Unknown
+2026-05-23 16:48:39,316 | WARNING | Record C016: Invalid join_date: None; Outlier loyalty_points: 8579055 (capped to 100000)
+2026-05-23 16:48:39,316 | WARNING | Record C017: Invalid region: None; Invalid join_date: invalid_date
+2026-05-23 16:48:39,316 | WARNING | Record C019: Invalid region: None
+2026-05-23 16:48:39,316 | WARNING | Record C020: Missing or invalid customer_name
+2026-05-23 16:48:39,316 | WARNING | Record C021: Invalid email: invalid_email
+2026-05-23 16:48:39,317 | WARNING | Record C022: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 16:48:39,317 | WARNING | Record C023: Invalid email: ; Invalid region: None
+2026-05-23 16:48:39,317 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 16:48:39,317 | WARNING | Record C028: Invalid join_date: None; Outlier loyalty_points: 4307063 (capped to 100000)
+2026-05-23 16:48:39,317 | WARNING | Record None: Missing customer_id; Invalid email: invalid_email; Invalid region: None; Missing loyalty_points
+2026-05-23 16:48:39,317 | WARNING | Record C030: Missing or invalid customer_name; Invalid join_date: None; Outlier loyalty_points: 9184950 (capped to 100000)
+2026-05-23 16:48:39,317 | WARNING | Record C031: Invalid region: None; Missing loyalty_points
+2026-05-23 16:48:39,317 | WARNING | Record C032: Invalid email: None; Invalid region: None
+2026-05-23 16:48:39,317 | WARNING | Record C034: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 16:48:39,317 | WARNING | Record C035: Invalid email: None
+2026-05-23 16:48:39,317 | WARNING | Record C036: Invalid join_date: 2023-01-31T00:00:00Z
+2026-05-23 16:48:39,317 | WARNING | Record C037: Invalid region: Unknown
+2026-05-23 16:48:39,317 | WARNING | Record C038: Invalid region: None; Outlier loyalty_points: 8179993 (capped to 100000)
+2026-05-23 16:48:39,317 | WARNING | Record C039: Invalid join_date: 2023-08-03T00:00:00Z
+2026-05-23 16:48:39,317 | WARNING | Record C040: Invalid region: Unknown
+2026-05-23 16:48:39,317 | WARNING | Record C041: Invalid email: invalid_email
+2026-05-23 16:48:39,317 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 16:48:39,317 | WARNING | Record C043: Invalid email: None
+2026-05-23 16:48:39,317 | WARNING | Record C044: Invalid email: ; Invalid join_date: 2022-05-21T00:00:00Z
+2026-05-23 16:48:39,317 | WARNING | Record C045: Invalid region: None
+2026-05-23 16:48:39,318 | WARNING | Record C046: Invalid email: invalid_email; Invalid region: None
+2026-05-23 16:48:39,318 | WARNING | Record C047: Outlier loyalty_points: 1435157 (capped to 100000)
+2026-05-23 16:48:39,318 | WARNING | Record C049: Invalid region: Unknown; Outlier loyalty_points: 8695647 (capped to 100000)
+2026-05-23 16:48:39,318 | WARNING | Record C050: Invalid email: ; Invalid region: None; Invalid join_date: 2022-02-23T00:00:00Z
+2026-05-23 16:48:39,318 | WARNING | Record C051: Missing or invalid customer_name; Invalid region: None
+2026-05-23 16:48:39,318 | WARNING | Record C052: Missing or invalid customer_name; Invalid email: invalid_email; Invalid region: None
+2026-05-23 16:48:39,318 | WARNING | Record C053: Invalid region: None
+2026-05-23 16:48:39,318 | WARNING | Record C054: Outlier loyalty_points: 6907064 (capped to 100000)
+2026-05-23 16:48:39,318 | WARNING | Record C056: Invalid join_date: 2023-02-17T00:00:00Z
+2026-05-23 16:48:39,318 | WARNING | Record C057: Invalid join_date: 2022-12-02T00:00:00Z
+2026-05-23 16:48:39,318 | WARNING | Record C058: Invalid region: None
+2026-05-23 16:48:39,318 | WARNING | Record C063: Invalid region: None
+2026-05-23 16:48:39,318 | WARNING | Record C066: Invalid region: Unknown
+2026-05-23 16:48:39,318 | WARNING | Record C068: Invalid email: ; Invalid region: Unknown; Outlier loyalty_points: 9315166 (capped to 100000)
+2026-05-23 16:48:39,318 | WARNING | Record C069: Invalid email: None
+2026-05-23 16:48:39,318 | WARNING | Record C070: Invalid region: Unknown; Invalid join_date: invalid_date
+2026-05-23 16:48:39,319 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 16:48:39,319 | WARNING | Record C072: Invalid email: 
+2026-05-23 16:48:39,319 | WARNING | Record C073: Invalid region: None
+2026-05-23 16:48:39,319 | WARNING | Record C074: Invalid region: None
+2026-05-23 16:48:39,319 | WARNING | Record C075: Invalid region: None
+2026-05-23 16:48:39,319 | WARNING | Record C076: Invalid email: ; Outlier loyalty_points: 3555012 (capped to 100000)
+2026-05-23 16:48:39,319 | WARNING | Record C077: Missing or invalid customer_name
+2026-05-23 16:48:39,319 | WARNING | Record C078: Invalid region: Unknown; Outlier loyalty_points: 3501111 (capped to 100000)
+2026-05-23 16:48:39,319 | WARNING | Record C081: Missing or invalid customer_name; Invalid email: ; Invalid region: Unknown
+2026-05-23 16:48:39,319 | WARNING | Record C082C082: Missing or invalid customer_name; Invalid region: Unknown
+2026-05-23 16:48:39,319 | WARNING | Record C083: Invalid region: None; Invalid join_date: None
+2026-05-23 16:48:39,319 | WARNING | Record C084: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 16:48:39,319 | WARNING | Record C087: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 16:48:39,319 | WARNING | Record C088: Invalid region: None
+2026-05-23 16:48:39,319 | WARNING | Record C089: Invalid email: ; Invalid region: Unknown
+2026-05-23 16:48:39,319 | WARNING | Record C090: Invalid region: None
+2026-05-23 16:48:39,319 | WARNING | Record C091: Invalid email: None; Invalid region: Unknown; Outlier loyalty_points: 6135203 (capped to 100000)
+2026-05-23 16:48:39,319 | WARNING | Record C094C094: Invalid region: None
+2026-05-23 16:48:39,319 | WARNING | Record C095: Missing or invalid customer_name
+2026-05-23 16:48:39,319 | WARNING | Record C097: Invalid email: ; Invalid region: Unknown
+2026-05-23 16:48:39,320 | WARNING | Record C099: Invalid region: Unknown
+2026-05-23 16:48:39,320 | WARNING | Record C100: Invalid region: None
+2026-05-23 16:48:39,320 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 16:48:39,320 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 16:48:39,320 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 17:18:59,589 | INFO | Loaded 105 records.
+2026-05-23 17:18:59,594 | WARNING | Record C001: Invalid region: None
+2026-05-23 17:18:59,594 | WARNING | Record C002: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 17:18:59,594 | WARNING | Record C003: Invalid region: Unknown; Missing loyalty_points
+2026-05-23 17:18:59,595 | WARNING | Record C004: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 17:18:59,595 | WARNING | Record C005: Invalid email: None; Invalid region: Unknown
+2026-05-23 17:18:59,595 | WARNING | Record C006: Invalid join_date: invalid_date
+2026-05-23 17:18:59,595 | WARNING | Record C007: Invalid email: invalid_email
+2026-05-23 17:18:59,595 | WARNING | Record C008: Outlier loyalty_points: 3483636 (capped to 100000)
+2026-05-23 17:18:59,595 | WARNING | Record C009: Invalid region: Unknown
+2026-05-23 17:18:59,595 | WARNING | Record C011: Invalid region: None; Missing loyalty_points
+2026-05-23 17:18:59,595 | WARNING | Record C014: Invalid email: ; Invalid region: Unknown
+2026-05-23 17:18:59,595 | WARNING | Record C015: Invalid region: Unknown
+2026-05-23 17:18:59,595 | WARNING | Record C016: Invalid join_date: None; Outlier loyalty_points: 8579055 (capped to 100000)
+2026-05-23 17:18:59,595 | WARNING | Record C017: Invalid region: None; Invalid join_date: invalid_date
+2026-05-23 17:18:59,595 | WARNING | Record C019: Invalid region: None
+2026-05-23 17:18:59,595 | WARNING | Record C020: Missing or invalid customer_name
+2026-05-23 17:18:59,595 | WARNING | Record C021: Invalid email: invalid_email
+2026-05-23 17:18:59,595 | WARNING | Record C022: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 17:18:59,595 | WARNING | Record C023: Invalid email: ; Invalid region: None
+2026-05-23 17:18:59,595 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 17:18:59,596 | WARNING | Record C028: Invalid join_date: None; Outlier loyalty_points: 4307063 (capped to 100000)
+2026-05-23 17:18:59,596 | WARNING | Record None: Missing customer_id; Invalid email: invalid_email; Invalid region: None; Missing loyalty_points
+2026-05-23 17:18:59,596 | WARNING | Record C030: Missing or invalid customer_name; Invalid join_date: None; Outlier loyalty_points: 9184950 (capped to 100000)
+2026-05-23 17:18:59,596 | WARNING | Record C031: Invalid region: None; Missing loyalty_points
+2026-05-23 17:18:59,596 | WARNING | Record C032: Invalid email: None; Invalid region: None
+2026-05-23 17:18:59,596 | WARNING | Record C034: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 17:18:59,596 | WARNING | Record C035: Invalid email: None
+2026-05-23 17:18:59,596 | WARNING | Record C036: Invalid join_date: 2023-01-31T00:00:00Z
+2026-05-23 17:18:59,596 | WARNING | Record C037: Invalid region: Unknown
+2026-05-23 17:18:59,596 | WARNING | Record C038: Invalid region: None; Outlier loyalty_points: 8179993 (capped to 100000)
+2026-05-23 17:18:59,596 | WARNING | Record C039: Invalid join_date: 2023-08-03T00:00:00Z
+2026-05-23 17:18:59,596 | WARNING | Record C040: Invalid region: Unknown
+2026-05-23 17:18:59,596 | WARNING | Record C041: Invalid email: invalid_email
+2026-05-23 17:18:59,596 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 17:18:59,596 | WARNING | Record C043: Invalid email: None
+2026-05-23 17:18:59,596 | WARNING | Record C044: Invalid email: ; Invalid join_date: 2022-05-21T00:00:00Z
+2026-05-23 17:18:59,596 | WARNING | Record C045: Invalid region: None
+2026-05-23 17:18:59,596 | WARNING | Record C046: Invalid email: invalid_email; Invalid region: None
+2026-05-23 17:18:59,596 | WARNING | Record C047: Outlier loyalty_points: 1435157 (capped to 100000)
+2026-05-23 17:18:59,596 | WARNING | Record C049: Invalid region: Unknown; Outlier loyalty_points: 8695647 (capped to 100000)
+2026-05-23 17:18:59,597 | WARNING | Record C050: Invalid email: ; Invalid region: None; Invalid join_date: 2022-02-23T00:00:00Z
+2026-05-23 17:18:59,597 | WARNING | Record C051: Missing or invalid customer_name; Invalid region: None
+2026-05-23 17:18:59,597 | WARNING | Record C052: Missing or invalid customer_name; Invalid email: invalid_email; Invalid region: None
+2026-05-23 17:18:59,597 | WARNING | Record C053: Invalid region: None
+2026-05-23 17:18:59,597 | WARNING | Record C054: Outlier loyalty_points: 6907064 (capped to 100000)
+2026-05-23 17:18:59,597 | WARNING | Record C056: Invalid join_date: 2023-02-17T00:00:00Z
+2026-05-23 17:18:59,597 | WARNING | Record C057: Invalid join_date: 2022-12-02T00:00:00Z
+2026-05-23 17:18:59,597 | WARNING | Record C058: Invalid region: None
+2026-05-23 17:18:59,597 | WARNING | Record C063: Invalid region: None
+2026-05-23 17:18:59,597 | WARNING | Record C066: Invalid region: Unknown
+2026-05-23 17:18:59,597 | WARNING | Record C068: Invalid email: ; Invalid region: Unknown; Outlier loyalty_points: 9315166 (capped to 100000)
+2026-05-23 17:18:59,597 | WARNING | Record C069: Invalid email: None
+2026-05-23 17:18:59,597 | WARNING | Record C070: Invalid region: Unknown; Invalid join_date: invalid_date
+2026-05-23 17:18:59,597 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 17:18:59,597 | WARNING | Record C072: Invalid email: 
+2026-05-23 17:18:59,597 | WARNING | Record C073: Invalid region: None
+2026-05-23 17:18:59,598 | WARNING | Record C074: Invalid region: None
+2026-05-23 17:18:59,598 | WARNING | Record C075: Invalid region: None
+2026-05-23 17:18:59,598 | WARNING | Record C076: Invalid email: ; Outlier loyalty_points: 3555012 (capped to 100000)
+2026-05-23 17:18:59,598 | WARNING | Record C077: Missing or invalid customer_name
+2026-05-23 17:18:59,598 | WARNING | Record C078: Invalid region: Unknown; Outlier loyalty_points: 3501111 (capped to 100000)
+2026-05-23 17:18:59,598 | WARNING | Record C081: Missing or invalid customer_name; Invalid email: ; Invalid region: Unknown
+2026-05-23 17:18:59,598 | WARNING | Record C082C082: Missing or invalid customer_name; Invalid region: Unknown
+2026-05-23 17:18:59,598 | WARNING | Record C083: Invalid region: None; Invalid join_date: None
+2026-05-23 17:18:59,598 | WARNING | Record C084: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 17:18:59,598 | WARNING | Record C087: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 17:18:59,598 | WARNING | Record C088: Invalid region: None
+2026-05-23 17:18:59,598 | WARNING | Record C089: Invalid email: ; Invalid region: Unknown
+2026-05-23 17:18:59,598 | WARNING | Record C090: Invalid region: None
+2026-05-23 17:18:59,598 | WARNING | Record C091: Invalid email: None; Invalid region: Unknown; Outlier loyalty_points: 6135203 (capped to 100000)
+2026-05-23 17:18:59,598 | WARNING | Record C094C094: Invalid region: None
+2026-05-23 17:18:59,598 | WARNING | Record C095: Missing or invalid customer_name
+2026-05-23 17:18:59,598 | WARNING | Record C097: Invalid email: ; Invalid region: Unknown
+2026-05-23 17:18:59,598 | WARNING | Record C099: Invalid region: Unknown
+2026-05-23 17:18:59,598 | WARNING | Record C100: Invalid region: None
+2026-05-23 17:18:59,598 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 17:18:59,599 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 17:18:59,599 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 17:19:06,237 | INFO | Loaded 105 records.
+2026-05-23 17:19:06,240 | WARNING | Record C001: Invalid region: None
+2026-05-23 17:19:06,241 | WARNING | Record C002: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 17:19:06,241 | WARNING | Record C003: Invalid region: Unknown; Missing loyalty_points
+2026-05-23 17:19:06,241 | WARNING | Record C004: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 17:19:06,241 | WARNING | Record C005: Invalid email: None; Invalid region: Unknown
+2026-05-23 17:19:06,241 | WARNING | Record C006: Invalid join_date: invalid_date
+2026-05-23 17:19:06,241 | WARNING | Record C007: Invalid email: invalid_email
+2026-05-23 17:19:06,241 | WARNING | Record C008: Outlier loyalty_points: 3483636 (capped to 100000)
+2026-05-23 17:19:06,241 | WARNING | Record C009: Invalid region: Unknown
+2026-05-23 17:19:06,242 | WARNING | Record C011: Invalid region: None; Missing loyalty_points
+2026-05-23 17:19:06,242 | WARNING | Record C014: Invalid email: ; Invalid region: Unknown
+2026-05-23 17:19:06,242 | WARNING | Record C015: Invalid region: Unknown
+2026-05-23 17:19:06,242 | WARNING | Record C016: Invalid join_date: None; Outlier loyalty_points: 8579055 (capped to 100000)
+2026-05-23 17:19:06,242 | WARNING | Record C017: Invalid region: None; Invalid join_date: invalid_date
+2026-05-23 17:19:06,242 | WARNING | Record C019: Invalid region: None
+2026-05-23 17:19:06,242 | WARNING | Record C020: Missing or invalid customer_name
+2026-05-23 17:19:06,242 | WARNING | Record C021: Invalid email: invalid_email
+2026-05-23 17:19:06,242 | WARNING | Record C022: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 17:19:06,242 | WARNING | Record C023: Invalid email: ; Invalid region: None
+2026-05-23 17:19:06,242 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 17:19:06,242 | WARNING | Record C028: Invalid join_date: None; Outlier loyalty_points: 4307063 (capped to 100000)
+2026-05-23 17:19:06,242 | WARNING | Record None: Missing customer_id; Invalid email: invalid_email; Invalid region: None; Missing loyalty_points
+2026-05-23 17:19:06,242 | WARNING | Record C030: Missing or invalid customer_name; Invalid join_date: None; Outlier loyalty_points: 9184950 (capped to 100000)
+2026-05-23 17:19:06,242 | WARNING | Record C031: Invalid region: None; Missing loyalty_points
+2026-05-23 17:19:06,242 | WARNING | Record C032: Invalid email: None; Invalid region: None
+2026-05-23 17:19:06,242 | WARNING | Record C034: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 17:19:06,242 | WARNING | Record C035: Invalid email: None
+2026-05-23 17:19:06,243 | WARNING | Record C036: Invalid join_date: 2023-01-31T00:00:00Z
+2026-05-23 17:19:06,243 | WARNING | Record C037: Invalid region: Unknown
+2026-05-23 17:19:06,243 | WARNING | Record C038: Invalid region: None; Outlier loyalty_points: 8179993 (capped to 100000)
+2026-05-23 17:19:06,243 | WARNING | Record C039: Invalid join_date: 2023-08-03T00:00:00Z
+2026-05-23 17:19:06,243 | WARNING | Record C040: Invalid region: Unknown
+2026-05-23 17:19:06,243 | WARNING | Record C041: Invalid email: invalid_email
+2026-05-23 17:19:06,243 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 17:19:06,243 | WARNING | Record C043: Invalid email: None
+2026-05-23 17:19:06,243 | WARNING | Record C044: Invalid email: ; Invalid join_date: 2022-05-21T00:00:00Z
+2026-05-23 17:19:06,243 | WARNING | Record C045: Invalid region: None
+2026-05-23 17:19:06,243 | WARNING | Record C046: Invalid email: invalid_email; Invalid region: None
+2026-05-23 17:19:06,243 | WARNING | Record C047: Outlier loyalty_points: 1435157 (capped to 100000)
+2026-05-23 17:19:06,243 | WARNING | Record C049: Invalid region: Unknown; Outlier loyalty_points: 8695647 (capped to 100000)
+2026-05-23 17:19:06,243 | WARNING | Record C050: Invalid email: ; Invalid region: None; Invalid join_date: 2022-02-23T00:00:00Z
+2026-05-23 17:19:06,243 | WARNING | Record C051: Missing or invalid customer_name; Invalid region: None
+2026-05-23 17:19:06,243 | WARNING | Record C052: Missing or invalid customer_name; Invalid email: invalid_email; Invalid region: None
+2026-05-23 17:19:06,243 | WARNING | Record C053: Invalid region: None
+2026-05-23 17:19:06,243 | WARNING | Record C054: Outlier loyalty_points: 6907064 (capped to 100000)
+2026-05-23 17:19:06,243 | WARNING | Record C056: Invalid join_date: 2023-02-17T00:00:00Z
+2026-05-23 17:19:06,243 | WARNING | Record C057: Invalid join_date: 2022-12-02T00:00:00Z
+2026-05-23 17:19:06,243 | WARNING | Record C058: Invalid region: None
+2026-05-23 17:19:06,244 | WARNING | Record C063: Invalid region: None
+2026-05-23 17:19:06,244 | WARNING | Record C066: Invalid region: Unknown
+2026-05-23 17:19:06,244 | WARNING | Record C068: Invalid email: ; Invalid region: Unknown; Outlier loyalty_points: 9315166 (capped to 100000)
+2026-05-23 17:19:06,244 | WARNING | Record C069: Invalid email: None
+2026-05-23 17:19:06,244 | WARNING | Record C070: Invalid region: Unknown; Invalid join_date: invalid_date
+2026-05-23 17:19:06,244 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 17:19:06,244 | WARNING | Record C072: Invalid email: 
+2026-05-23 17:19:06,244 | WARNING | Record C073: Invalid region: None
+2026-05-23 17:19:06,244 | WARNING | Record C074: Invalid region: None
+2026-05-23 17:19:06,244 | WARNING | Record C075: Invalid region: None
+2026-05-23 17:19:06,244 | WARNING | Record C076: Invalid email: ; Outlier loyalty_points: 3555012 (capped to 100000)
+2026-05-23 17:19:06,244 | WARNING | Record C077: Missing or invalid customer_name
+2026-05-23 17:19:06,244 | WARNING | Record C078: Invalid region: Unknown; Outlier loyalty_points: 3501111 (capped to 100000)
+2026-05-23 17:19:06,244 | WARNING | Record C081: Missing or invalid customer_name; Invalid email: ; Invalid region: Unknown
+2026-05-23 17:19:06,244 | WARNING | Record C082C082: Missing or invalid customer_name; Invalid region: Unknown
+2026-05-23 17:19:06,244 | WARNING | Record C083: Invalid region: None; Invalid join_date: None
+2026-05-23 17:19:06,244 | WARNING | Record C084: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 17:19:06,245 | WARNING | Record C087: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 17:19:06,245 | WARNING | Record C088: Invalid region: None
+2026-05-23 17:19:06,245 | WARNING | Record C089: Invalid email: ; Invalid region: Unknown
+2026-05-23 17:19:06,245 | WARNING | Record C090: Invalid region: None
+2026-05-23 17:19:06,245 | WARNING | Record C091: Invalid email: None; Invalid region: Unknown; Outlier loyalty_points: 6135203 (capped to 100000)
+2026-05-23 17:19:06,245 | WARNING | Record C094C094: Invalid region: None
+2026-05-23 17:19:06,245 | WARNING | Record C095: Missing or invalid customer_name
+2026-05-23 17:19:06,245 | WARNING | Record C097: Invalid email: ; Invalid region: Unknown
+2026-05-23 17:19:06,245 | WARNING | Record C099: Invalid region: Unknown
+2026-05-23 17:19:06,245 | WARNING | Record C100: Invalid region: None
+2026-05-23 17:19:06,245 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 17:19:06,245 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 17:19:06,245 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 17:20:07,948 | INFO | Loaded 105 records.
+2026-05-23 17:20:07,952 | WARNING | Record C001: Invalid region: None
+2026-05-23 17:20:07,953 | WARNING | Record C002: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 17:20:07,953 | WARNING | Record C003: Invalid region: Unknown; Missing loyalty_points
+2026-05-23 17:20:07,953 | WARNING | Record C004: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 17:20:07,953 | WARNING | Record C005: Invalid email: None; Invalid region: Unknown
+2026-05-23 17:20:07,953 | WARNING | Record C006: Invalid join_date: invalid_date
+2026-05-23 17:20:07,953 | WARNING | Record C007: Invalid email: invalid_email
+2026-05-23 17:20:07,953 | WARNING | Record C008: Outlier loyalty_points: 3483636 (capped to 100000)
+2026-05-23 17:20:07,953 | WARNING | Record C009: Invalid region: Unknown
+2026-05-23 17:20:07,953 | WARNING | Record C011: Invalid region: None; Missing loyalty_points
+2026-05-23 17:20:07,953 | WARNING | Record C014: Invalid email: ; Invalid region: Unknown
+2026-05-23 17:20:07,953 | WARNING | Record C015: Invalid region: Unknown
+2026-05-23 17:20:07,953 | WARNING | Record C016: Invalid join_date: None; Outlier loyalty_points: 8579055 (capped to 100000)
+2026-05-23 17:20:07,953 | WARNING | Record C017: Invalid region: None; Invalid join_date: invalid_date
+2026-05-23 17:20:07,953 | WARNING | Record C019: Invalid region: None
+2026-05-23 17:20:07,953 | WARNING | Record C020: Missing or invalid customer_name
+2026-05-23 17:20:07,954 | WARNING | Record C021: Invalid email: invalid_email
+2026-05-23 17:20:07,954 | WARNING | Record C022: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 17:20:07,954 | WARNING | Record C023: Invalid email: ; Invalid region: None
+2026-05-23 17:20:07,954 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 17:20:07,954 | WARNING | Record C028: Invalid join_date: None; Outlier loyalty_points: 4307063 (capped to 100000)
+2026-05-23 17:20:07,954 | WARNING | Record None: Missing customer_id; Invalid email: invalid_email; Invalid region: None; Missing loyalty_points
+2026-05-23 17:20:07,954 | WARNING | Record C030: Missing or invalid customer_name; Invalid join_date: None; Outlier loyalty_points: 9184950 (capped to 100000)
+2026-05-23 17:20:07,954 | WARNING | Record C031: Invalid region: None; Missing loyalty_points
+2026-05-23 17:20:07,954 | WARNING | Record C032: Invalid email: None; Invalid region: None
+2026-05-23 17:20:07,954 | WARNING | Record C034: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 17:20:07,954 | WARNING | Record C035: Invalid email: None
+2026-05-23 17:20:07,954 | WARNING | Record C036: Invalid join_date: 2023-01-31T00:00:00Z
+2026-05-23 17:20:07,954 | WARNING | Record C037: Invalid region: Unknown
+2026-05-23 17:20:07,954 | WARNING | Record C038: Invalid region: None; Outlier loyalty_points: 8179993 (capped to 100000)
+2026-05-23 17:20:07,954 | WARNING | Record C039: Invalid join_date: 2023-08-03T00:00:00Z
+2026-05-23 17:20:07,954 | WARNING | Record C040: Invalid region: Unknown
+2026-05-23 17:20:07,954 | WARNING | Record C041: Invalid email: invalid_email
+2026-05-23 17:20:07,954 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 17:20:07,955 | WARNING | Record C043: Invalid email: None
+2026-05-23 17:20:07,955 | WARNING | Record C044: Invalid email: ; Invalid join_date: 2022-05-21T00:00:00Z
+2026-05-23 17:20:07,955 | WARNING | Record C045: Invalid region: None
+2026-05-23 17:20:07,955 | WARNING | Record C046: Invalid email: invalid_email; Invalid region: None
+2026-05-23 17:20:07,955 | WARNING | Record C047: Outlier loyalty_points: 1435157 (capped to 100000)
+2026-05-23 17:20:07,955 | WARNING | Record C049: Invalid region: Unknown; Outlier loyalty_points: 8695647 (capped to 100000)
+2026-05-23 17:20:07,955 | WARNING | Record C050: Invalid email: ; Invalid region: None; Invalid join_date: 2022-02-23T00:00:00Z
+2026-05-23 17:20:07,955 | WARNING | Record C051: Missing or invalid customer_name; Invalid region: None
+2026-05-23 17:20:07,955 | WARNING | Record C052: Missing or invalid customer_name; Invalid email: invalid_email; Invalid region: None
+2026-05-23 17:20:07,955 | WARNING | Record C053: Invalid region: None
+2026-05-23 17:20:07,955 | WARNING | Record C054: Outlier loyalty_points: 6907064 (capped to 100000)
+2026-05-23 17:20:07,955 | WARNING | Record C056: Invalid join_date: 2023-02-17T00:00:00Z
+2026-05-23 17:20:07,955 | WARNING | Record C057: Invalid join_date: 2022-12-02T00:00:00Z
+2026-05-23 17:20:07,955 | WARNING | Record C058: Invalid region: None
+2026-05-23 17:20:07,955 | WARNING | Record C063: Invalid region: None
+2026-05-23 17:20:07,955 | WARNING | Record C066: Invalid region: Unknown
+2026-05-23 17:20:07,955 | WARNING | Record C068: Invalid email: ; Invalid region: Unknown; Outlier loyalty_points: 9315166 (capped to 100000)
+2026-05-23 17:20:07,955 | WARNING | Record C069: Invalid email: None
+2026-05-23 17:20:07,956 | WARNING | Record C070: Invalid region: Unknown; Invalid join_date: invalid_date
+2026-05-23 17:20:07,956 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 17:20:07,956 | WARNING | Record C072: Invalid email: 
+2026-05-23 17:20:07,956 | WARNING | Record C073: Invalid region: None
+2026-05-23 17:20:07,956 | WARNING | Record C074: Invalid region: None
+2026-05-23 17:20:07,956 | WARNING | Record C075: Invalid region: None
+2026-05-23 17:20:07,956 | WARNING | Record C076: Invalid email: ; Outlier loyalty_points: 3555012 (capped to 100000)
+2026-05-23 17:20:07,956 | WARNING | Record C077: Missing or invalid customer_name
+2026-05-23 17:20:07,956 | WARNING | Record C078: Invalid region: Unknown; Outlier loyalty_points: 3501111 (capped to 100000)
+2026-05-23 17:20:07,956 | WARNING | Record C081: Missing or invalid customer_name; Invalid email: ; Invalid region: Unknown
+2026-05-23 17:20:07,956 | WARNING | Record C082C082: Missing or invalid customer_name; Invalid region: Unknown
+2026-05-23 17:20:07,956 | WARNING | Record C083: Invalid region: None; Invalid join_date: None
+2026-05-23 17:20:07,956 | WARNING | Record C084: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 17:20:07,956 | WARNING | Record C087: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 17:20:07,956 | WARNING | Record C088: Invalid region: None
+2026-05-23 17:20:07,956 | WARNING | Record C089: Invalid email: ; Invalid region: Unknown
+2026-05-23 17:20:07,956 | WARNING | Record C090: Invalid region: None
+2026-05-23 17:20:07,956 | WARNING | Record C091: Invalid email: None; Invalid region: Unknown; Outlier loyalty_points: 6135203 (capped to 100000)
+2026-05-23 17:20:07,956 | WARNING | Record C094C094: Invalid region: None
+2026-05-23 17:20:07,957 | WARNING | Record C095: Missing or invalid customer_name
+2026-05-23 17:20:07,957 | WARNING | Record C097: Invalid email: ; Invalid region: Unknown
+2026-05-23 17:20:07,957 | WARNING | Record C099: Invalid region: Unknown
+2026-05-23 17:20:07,957 | WARNING | Record C100: Invalid region: None
+2026-05-23 17:20:07,957 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 17:20:07,957 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 17:20:07,957 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 17:20:07,959 | INFO | Processing complete. 27 clean, 78 errors.
+2026-05-23 19:02:44,036 | INFO | Loaded 105 records.
+2026-05-23 19:02:44,040 | WARNING | Record C001: Invalid region: None
+2026-05-23 19:02:44,041 | WARNING | Record C002: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 19:02:44,041 | WARNING | Record C003: Invalid region: Unknown; Missing loyalty_points
+2026-05-23 19:02:44,041 | WARNING | Record C004: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 19:02:44,041 | WARNING | Record C005: Invalid email: None; Invalid region: Unknown
+2026-05-23 19:02:44,041 | WARNING | Record C006: Invalid join_date: invalid_date
+2026-05-23 19:02:44,041 | WARNING | Record C007: Invalid email: invalid_email
+2026-05-23 19:02:44,041 | WARNING | Record C008: Outlier loyalty_points: 3483636 (capped to 100000)
+2026-05-23 19:02:44,041 | WARNING | Record C009: Invalid region: Unknown
+2026-05-23 19:02:44,041 | WARNING | Record C011: Invalid region: None; Missing loyalty_points
+2026-05-23 19:02:44,041 | WARNING | Record C014: Invalid email: ; Invalid region: Unknown
+2026-05-23 19:02:44,041 | WARNING | Record C015: Invalid region: Unknown
+2026-05-23 19:02:44,041 | WARNING | Record C016: Invalid join_date: None; Outlier loyalty_points: 8579055 (capped to 100000)
+2026-05-23 19:02:44,041 | WARNING | Record C017: Invalid region: None; Invalid join_date: invalid_date
+2026-05-23 19:02:44,042 | WARNING | Record C019: Invalid region: None
+2026-05-23 19:02:44,042 | WARNING | Record C020: Missing or invalid customer_name
+2026-05-23 19:02:44,042 | WARNING | Record C021: Invalid email: invalid_email
+2026-05-23 19:02:44,042 | WARNING | Record C022: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 19:02:44,042 | WARNING | Record C023: Invalid email: ; Invalid region: None
+2026-05-23 19:02:44,042 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 19:02:44,042 | WARNING | Record C028: Invalid join_date: None; Outlier loyalty_points: 4307063 (capped to 100000)
+2026-05-23 19:02:44,042 | WARNING | Record : Missing customer_id; Invalid email: invalid_email; Invalid region: None; Missing loyalty_points
+2026-05-23 19:02:44,042 | WARNING | Record C030: Missing or invalid customer_name; Invalid join_date: None; Outlier loyalty_points: 9184950 (capped to 100000)
+2026-05-23 19:02:44,042 | WARNING | Record C031: Invalid region: None; Missing loyalty_points
+2026-05-23 19:02:44,042 | WARNING | Record C032: Invalid email: None; Invalid region: None
+2026-05-23 19:02:44,042 | WARNING | Record C034: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 19:02:44,042 | WARNING | Record C035: Invalid email: None
+2026-05-23 19:02:44,042 | WARNING | Record C036: Invalid join_date: 2023-01-31T00:00:00Z
+2026-05-23 19:02:44,042 | WARNING | Record C037: Invalid region: Unknown
+2026-05-23 19:02:44,042 | WARNING | Record C038: Invalid region: None; Outlier loyalty_points: 8179993 (capped to 100000)
+2026-05-23 19:02:44,042 | WARNING | Record C039: Invalid join_date: 2023-08-03T00:00:00Z
+2026-05-23 19:02:44,042 | WARNING | Record C040: Invalid region: Unknown
+2026-05-23 19:02:44,042 | WARNING | Record C041: Invalid email: invalid_email
+2026-05-23 19:02:44,042 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 19:02:44,043 | WARNING | Record C043: Invalid email: None
+2026-05-23 19:02:44,043 | WARNING | Record C044: Invalid email: ; Invalid join_date: 2022-05-21T00:00:00Z
+2026-05-23 19:02:44,043 | WARNING | Record C045: Invalid region: None
+2026-05-23 19:02:44,043 | WARNING | Record C046: Invalid email: invalid_email; Invalid region: None
+2026-05-23 19:02:44,043 | WARNING | Record C047: Outlier loyalty_points: 1435157 (capped to 100000)
+2026-05-23 19:02:44,043 | WARNING | Record C049: Invalid region: Unknown; Outlier loyalty_points: 8695647 (capped to 100000)
+2026-05-23 19:02:44,043 | WARNING | Record C050: Invalid email: ; Invalid region: None; Invalid join_date: 2022-02-23T00:00:00Z
+2026-05-23 19:02:44,043 | WARNING | Record C051: Missing or invalid customer_name; Invalid region: None
+2026-05-23 19:02:44,043 | WARNING | Record C052: Missing or invalid customer_name; Invalid email: invalid_email; Invalid region: None
+2026-05-23 19:02:44,043 | WARNING | Record C053: Invalid region: None
+2026-05-23 19:02:44,043 | WARNING | Record C054: Outlier loyalty_points: 6907064 (capped to 100000)
+2026-05-23 19:02:44,043 | WARNING | Record C056: Invalid join_date: 2023-02-17T00:00:00Z
+2026-05-23 19:02:44,043 | WARNING | Record C057: Invalid join_date: 2022-12-02T00:00:00Z
+2026-05-23 19:02:44,043 | WARNING | Record C058: Invalid region: None
+2026-05-23 19:02:44,043 | WARNING | Record C063: Invalid region: None
+2026-05-23 19:02:44,043 | WARNING | Record C066: Invalid region: Unknown
+2026-05-23 19:02:44,043 | WARNING | Record C068: Invalid email: ; Invalid region: Unknown; Outlier loyalty_points: 9315166 (capped to 100000)
+2026-05-23 19:02:44,043 | WARNING | Record C069: Invalid email: None
+2026-05-23 19:02:44,044 | WARNING | Record C070: Invalid region: Unknown; Invalid join_date: invalid_date
+2026-05-23 19:02:44,044 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 19:02:44,044 | WARNING | Record C072: Invalid email: 
+2026-05-23 19:02:44,044 | WARNING | Record C073: Invalid region: None
+2026-05-23 19:02:44,044 | WARNING | Record C074: Invalid region: None
+2026-05-23 19:02:44,044 | WARNING | Record C075: Invalid region: None
+2026-05-23 19:02:44,044 | WARNING | Record C076: Invalid email: ; Outlier loyalty_points: 3555012 (capped to 100000)
+2026-05-23 19:02:44,044 | WARNING | Record C077: Missing or invalid customer_name
+2026-05-23 19:02:44,044 | WARNING | Record C078: Invalid region: Unknown; Outlier loyalty_points: 3501111 (capped to 100000)
+2026-05-23 19:02:44,044 | WARNING | Record C081: Missing or invalid customer_name; Invalid email: ; Invalid region: Unknown
+2026-05-23 19:02:44,044 | WARNING | Record C082C082: Missing or invalid customer_name; Invalid region: Unknown
+2026-05-23 19:02:44,044 | WARNING | Record C083: Invalid region: None; Invalid join_date: None
+2026-05-23 19:02:44,044 | WARNING | Record C084: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 19:02:44,044 | WARNING | Record C087: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 19:02:44,044 | WARNING | Record C088: Invalid region: None
+2026-05-23 19:02:44,044 | WARNING | Record C089: Invalid email: ; Invalid region: Unknown
+2026-05-23 19:02:44,044 | WARNING | Record C090: Invalid region: None
+2026-05-23 19:02:44,044 | WARNING | Record C091: Invalid email: None; Invalid region: Unknown; Outlier loyalty_points: 6135203 (capped to 100000)
+2026-05-23 19:02:44,045 | WARNING | Record C094C094: Invalid region: None
+2026-05-23 19:02:44,045 | WARNING | Record C095: Missing or invalid customer_name
+2026-05-23 19:02:44,045 | WARNING | Record C097: Invalid email: ; Invalid region: Unknown
+2026-05-23 19:02:44,045 | WARNING | Record C099: Invalid region: Unknown
+2026-05-23 19:02:44,045 | WARNING | Record C100: Invalid region: None
+2026-05-23 19:02:44,045 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 19:02:44,045 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 19:02:44,045 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 19:02:44,048 | INFO | Processing complete. 27 clean, 78 errors.
+2026-05-23 20:50:59,775 | INFO | Loaded 105 records.
+2026-05-23 20:50:59,786 | WARNING | Record C001: Invalid region: None
+2026-05-23 20:50:59,788 | WARNING | Record C002: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 20:50:59,789 | WARNING | Record C003: Invalid region: Unknown; Missing loyalty_points
+2026-05-23 20:50:59,789 | WARNING | Record C004: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 20:50:59,789 | WARNING | Record C005: Invalid email: None; Invalid region: Unknown
+2026-05-23 20:50:59,790 | WARNING | Record C006: Invalid join_date: invalid_date
+2026-05-23 20:50:59,790 | WARNING | Record C007: Invalid email: invalid_email
+2026-05-23 20:50:59,790 | WARNING | Record C008: Outlier loyalty_points: 3483636 (capped to 100000)
+2026-05-23 20:50:59,790 | WARNING | Record C009: Invalid region: Unknown
+2026-05-23 20:50:59,791 | WARNING | Record C011: Invalid region: None; Missing loyalty_points
+2026-05-23 20:50:59,791 | WARNING | Record C014: Invalid email: ; Invalid region: Unknown
+2026-05-23 20:50:59,791 | WARNING | Record C015: Invalid region: Unknown
+2026-05-23 20:50:59,791 | WARNING | Record C016: Invalid join_date: None; Outlier loyalty_points: 8579055 (capped to 100000)
+2026-05-23 20:50:59,792 | WARNING | Record C017: Invalid region: None; Invalid join_date: invalid_date
+2026-05-23 20:50:59,792 | WARNING | Record C019: Invalid region: None
+2026-05-23 20:50:59,792 | WARNING | Record C020: Missing or invalid customer_name
+2026-05-23 20:50:59,792 | WARNING | Record C021: Invalid email: invalid_email
+2026-05-23 20:50:59,792 | WARNING | Record C022: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 20:50:59,793 | WARNING | Record C023: Invalid email: ; Invalid region: None
+2026-05-23 20:50:59,793 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 20:50:59,793 | WARNING | Record C028: Invalid join_date: None; Outlier loyalty_points: 4307063 (capped to 100000)
+2026-05-23 20:50:59,793 | WARNING | Record : Missing customer_id; Invalid email: invalid_email; Invalid region: None; Missing loyalty_points
+2026-05-23 20:50:59,793 | WARNING | Record C030: Missing or invalid customer_name; Invalid join_date: None; Outlier loyalty_points: 9184950 (capped to 100000)
+2026-05-23 20:50:59,793 | WARNING | Record C031: Invalid region: None; Missing loyalty_points
+2026-05-23 20:50:59,793 | WARNING | Record C032: Invalid email: None; Invalid region: None
+2026-05-23 20:50:59,793 | WARNING | Record C034: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 20:50:59,794 | WARNING | Record C035: Invalid email: None
+2026-05-23 20:50:59,794 | WARNING | Record C036: Invalid join_date: 2023-01-31T00:00:00Z
+2026-05-23 20:50:59,794 | WARNING | Record C037: Invalid region: Unknown
+2026-05-23 20:50:59,794 | WARNING | Record C038: Invalid region: None; Outlier loyalty_points: 8179993 (capped to 100000)
+2026-05-23 20:50:59,794 | WARNING | Record C039: Invalid join_date: 2023-08-03T00:00:00Z
+2026-05-23 20:50:59,794 | WARNING | Record C040: Invalid region: Unknown
+2026-05-23 20:50:59,794 | WARNING | Record C041: Invalid email: invalid_email
+2026-05-23 20:50:59,794 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 20:50:59,795 | WARNING | Record C043: Invalid email: None
+2026-05-23 20:50:59,795 | WARNING | Record C044: Invalid email: ; Invalid join_date: 2022-05-21T00:00:00Z
+2026-05-23 20:50:59,795 | WARNING | Record C045: Invalid region: None
+2026-05-23 20:50:59,795 | WARNING | Record C046: Invalid email: invalid_email; Invalid region: None
+2026-05-23 20:50:59,795 | WARNING | Record C047: Outlier loyalty_points: 1435157 (capped to 100000)
+2026-05-23 20:50:59,795 | WARNING | Record C049: Invalid region: Unknown; Outlier loyalty_points: 8695647 (capped to 100000)
+2026-05-23 20:50:59,796 | WARNING | Record C050: Invalid email: ; Invalid region: None; Invalid join_date: 2022-02-23T00:00:00Z
+2026-05-23 20:50:59,796 | WARNING | Record C051: Missing or invalid customer_name; Invalid region: None
+2026-05-23 20:50:59,796 | WARNING | Record C052: Missing or invalid customer_name; Invalid email: invalid_email; Invalid region: None
+2026-05-23 20:50:59,796 | WARNING | Record C053: Invalid region: None
+2026-05-23 20:50:59,796 | WARNING | Record C054: Outlier loyalty_points: 6907064 (capped to 100000)
+2026-05-23 20:50:59,796 | WARNING | Record C056: Invalid join_date: 2023-02-17T00:00:00Z
+2026-05-23 20:50:59,796 | WARNING | Record C057: Invalid join_date: 2022-12-02T00:00:00Z
+2026-05-23 20:50:59,796 | WARNING | Record C058: Invalid region: None
+2026-05-23 20:50:59,797 | WARNING | Record C063: Invalid region: None
+2026-05-23 20:50:59,797 | WARNING | Record C066: Invalid region: Unknown
+2026-05-23 20:50:59,797 | WARNING | Record C068: Invalid email: ; Invalid region: Unknown; Outlier loyalty_points: 9315166 (capped to 100000)
+2026-05-23 20:50:59,797 | WARNING | Record C069: Invalid email: None
+2026-05-23 20:50:59,797 | WARNING | Record C070: Invalid region: Unknown; Invalid join_date: invalid_date
+2026-05-23 20:50:59,798 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 20:50:59,798 | WARNING | Record C072: Invalid email: 
+2026-05-23 20:50:59,798 | WARNING | Record C073: Invalid region: None
+2026-05-23 20:50:59,798 | WARNING | Record C074: Invalid region: None
+2026-05-23 20:50:59,798 | WARNING | Record C075: Invalid region: None
+2026-05-23 20:50:59,798 | WARNING | Record C076: Invalid email: ; Outlier loyalty_points: 3555012 (capped to 100000)
+2026-05-23 20:50:59,798 | WARNING | Record C077: Missing or invalid customer_name
+2026-05-23 20:50:59,799 | WARNING | Record C078: Invalid region: Unknown; Outlier loyalty_points: 3501111 (capped to 100000)
+2026-05-23 20:50:59,799 | WARNING | Record C081: Missing or invalid customer_name; Invalid email: ; Invalid region: Unknown
+2026-05-23 20:50:59,799 | WARNING | Record C082C082: Missing or invalid customer_name; Invalid region: Unknown
+2026-05-23 20:50:59,799 | WARNING | Record C083: Invalid region: None; Invalid join_date: None
+2026-05-23 20:50:59,800 | WARNING | Record C084: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 20:50:59,800 | WARNING | Record C087: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 20:50:59,800 | WARNING | Record C088: Invalid region: None
+2026-05-23 20:50:59,800 | WARNING | Record C089: Invalid email: ; Invalid region: Unknown
+2026-05-23 20:50:59,800 | WARNING | Record C090: Invalid region: None
+2026-05-23 20:50:59,801 | WARNING | Record C091: Invalid email: None; Invalid region: Unknown; Outlier loyalty_points: 6135203 (capped to 100000)
+2026-05-23 20:50:59,801 | WARNING | Record C094C094: Invalid region: None
+2026-05-23 20:50:59,801 | WARNING | Record C095: Missing or invalid customer_name
+2026-05-23 20:50:59,801 | WARNING | Record C097: Invalid email: ; Invalid region: Unknown
+2026-05-23 20:50:59,801 | WARNING | Record C099: Invalid region: Unknown
+2026-05-23 20:50:59,801 | WARNING | Record C100: Invalid region: None
+2026-05-23 20:50:59,802 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 20:50:59,802 | WARNING | Record C025: Invalid email: ; Invalid join_date: 2022-09-16T00:00:00Z
+2026-05-23 20:50:59,802 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 20:50:59,808 | INFO | Processing complete. 27 clean, 78 errors.
+2026-05-23 21:24:23,913 | INFO | Loaded 105 records from customer_data.json
+2026-05-23 21:24:23,915 | WARNING | Record C001: Invalid region: None
+2026-05-23 21:24:23,919 | WARNING | Record C002: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 21:24:23,920 | WARNING | Record C003: Invalid region: Unknown; Missing loyalty_points
+2026-05-23 21:24:23,920 | WARNING | Record C004: Missing or invalid customer_name; Invalid join_date: invalid_date
+2026-05-23 21:24:23,920 | WARNING | Record C005: Invalid email: None; Invalid region: Unknown
+2026-05-23 21:24:23,921 | WARNING | Record C006: Invalid join_date: invalid_date
+2026-05-23 21:24:23,921 | WARNING | Record C007: Invalid email: invalid_email
+2026-05-23 21:24:23,921 | WARNING | Record C008: Outlier loyalty_points: 3483636 (capped to 100000)
+2026-05-23 21:24:23,921 | WARNING | Record C009: Invalid region: Unknown
+2026-05-23 21:24:23,921 | WARNING | Record C011: Invalid region: None; Missing loyalty_points
+2026-05-23 21:24:23,922 | WARNING | Record C014: Invalid email: ; Invalid region: Unknown
+2026-05-23 21:24:23,922 | WARNING | Record C015: Invalid region: Unknown
+2026-05-23 21:24:23,922 | WARNING | Record C016: Invalid join_date: None; Outlier loyalty_points: 8579055 (capped to 100000)
+2026-05-23 21:24:23,922 | WARNING | Record C017: Invalid region: None; Invalid join_date: invalid_date
+2026-05-23 21:24:23,922 | WARNING | Record C019: Invalid region: None
+2026-05-23 21:24:23,922 | WARNING | Record C020: Missing or invalid customer_name
+2026-05-23 21:24:23,922 | WARNING | Record C021: Invalid email: invalid_email
+2026-05-23 21:24:23,923 | WARNING | Record C022: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 21:24:23,923 | WARNING | Record C023: Invalid email: ; Invalid region: None
+2026-05-23 21:24:23,923 | WARNING | Record C024: Negative loyalty_points: -150
+2026-05-23 21:24:23,923 | WARNING | Record C025: Invalid email: 
+2026-05-23 21:24:23,923 | WARNING | Record C028: Invalid join_date: None; Outlier loyalty_points: 4307063 (capped to 100000)
+2026-05-23 21:24:23,924 | WARNING | Record : Missing customer_id; Invalid email: invalid_email; Invalid region: None; Missing loyalty_points
+2026-05-23 21:24:23,924 | WARNING | Record C030: Missing or invalid customer_name; Invalid join_date: None; Outlier loyalty_points: 9184950 (capped to 100000)
+2026-05-23 21:24:23,924 | WARNING | Record C031: Invalid region: None; Missing loyalty_points
+2026-05-23 21:24:23,924 | WARNING | Record C032: Invalid email: None; Invalid region: None
+2026-05-23 21:24:23,925 | WARNING | Record C034: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 21:24:23,925 | WARNING | Record C035: Invalid email: None
+2026-05-23 21:24:23,926 | WARNING | Record C037: Invalid region: Unknown
+2026-05-23 21:24:23,926 | WARNING | Record C038: Invalid region: None; Outlier loyalty_points: 8179993 (capped to 100000)
+2026-05-23 21:24:23,926 | WARNING | Record C040: Invalid region: Unknown
+2026-05-23 21:24:23,926 | WARNING | Record C041: Invalid email: invalid_email
+2026-05-23 21:24:23,927 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 21:24:23,927 | WARNING | Record C043: Invalid email: None
+2026-05-23 21:24:23,927 | WARNING | Record C044: Invalid email: 
+2026-05-23 21:24:23,927 | WARNING | Record C045: Invalid region: None
+2026-05-23 21:24:23,928 | WARNING | Record C046: Invalid email: invalid_email; Invalid region: None
+2026-05-23 21:24:23,928 | WARNING | Record C047: Outlier loyalty_points: 1435157 (capped to 100000)
+2026-05-23 21:24:23,928 | WARNING | Record C049: Invalid region: Unknown; Outlier loyalty_points: 8695647 (capped to 100000)
+2026-05-23 21:24:23,928 | WARNING | Record C050: Invalid email: ; Invalid region: None
+2026-05-23 21:24:23,929 | WARNING | Record C051: Missing or invalid customer_name; Invalid region: None
+2026-05-23 21:24:23,929 | WARNING | Record C052: Missing or invalid customer_name; Invalid email: invalid_email; Invalid region: None
+2026-05-23 21:24:23,929 | WARNING | Record C053: Invalid region: None
+2026-05-23 21:24:23,929 | WARNING | Record C054: Outlier loyalty_points: 6907064 (capped to 100000)
+2026-05-23 21:24:23,929 | WARNING | Record C058: Invalid region: None
+2026-05-23 21:24:23,930 | WARNING | Record C063: Invalid region: None
+2026-05-23 21:24:23,930 | WARNING | Record C065: Negative loyalty_points: -830
+2026-05-23 21:24:23,930 | WARNING | Record C066: Invalid region: Unknown
+2026-05-23 21:24:23,930 | WARNING | Record C068: Invalid email: ; Invalid region: Unknown; Outlier loyalty_points: 9315166 (capped to 100000)
+2026-05-23 21:24:23,931 | WARNING | Record C069: Invalid email: None
+2026-05-23 21:24:23,931 | WARNING | Record C070: Invalid region: Unknown; Invalid join_date: invalid_date
+2026-05-23 21:24:23,931 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 21:24:23,931 | WARNING | Record C072: Invalid email: 
+2026-05-23 21:24:23,931 | WARNING | Record C073: Invalid region: None
+2026-05-23 21:24:23,931 | WARNING | Record C074: Invalid region: None
+2026-05-23 21:24:23,931 | WARNING | Record C075: Invalid region: None
+2026-05-23 21:24:23,932 | WARNING | Record C076: Invalid email: ; Outlier loyalty_points: 3555012 (capped to 100000)
+2026-05-23 21:24:23,932 | WARNING | Record C077: Missing or invalid customer_name
+2026-05-23 21:24:23,932 | WARNING | Record C078: Invalid region: Unknown; Outlier loyalty_points: 3501111 (capped to 100000)
+2026-05-23 21:24:23,932 | WARNING | Record C081: Missing or invalid customer_name; Invalid email: ; Invalid region: Unknown
+2026-05-23 21:24:23,932 | WARNING | Record C082C082: Missing or invalid customer_name; Invalid region: Unknown
+2026-05-23 21:24:23,932 | WARNING | Record C083: Invalid region: None; Invalid join_date: None
+2026-05-23 21:24:23,933 | WARNING | Record C084: Missing or invalid customer_name; Missing loyalty_points
+2026-05-23 21:24:23,933 | WARNING | Record C085: Negative loyalty_points: -383
+2026-05-23 21:24:23,933 | WARNING | Record C087: Invalid email: invalid_email; Invalid region: Unknown
+2026-05-23 21:24:23,933 | WARNING | Record C088: Invalid region: None
+2026-05-23 21:24:23,933 | WARNING | Record C089: Invalid email: ; Invalid region: Unknown
+2026-05-23 21:24:23,933 | WARNING | Record C090: Invalid region: None
+2026-05-23 21:24:23,933 | WARNING | Record C091: Invalid email: None; Invalid region: Unknown; Outlier loyalty_points: 6135203 (capped to 100000)
+2026-05-23 21:24:23,934 | WARNING | Record C093: Negative loyalty_points: -837
+2026-05-23 21:24:23,934 | WARNING | Record C094C094: Invalid region: None
+2026-05-23 21:24:23,934 | WARNING | Record C095: Missing or invalid customer_name
+2026-05-23 21:24:23,934 | WARNING | Record C097: Invalid email: ; Invalid region: Unknown
+2026-05-23 21:24:23,934 | WARNING | Record C099: Invalid region: Unknown
+2026-05-23 21:24:23,934 | WARNING | Record C100: Invalid region: None
+2026-05-23 21:24:23,935 | WARNING | Record C071: Missing loyalty_points
+2026-05-23 21:24:23,935 | WARNING | Record C025: Invalid email: 
+2026-05-23 21:24:23,935 | WARNING | Record C042: Invalid email: None; Missing loyalty_points
+2026-05-23 21:24:23,975 | INFO | Processing complete. 25 valid rows, 74 flagged rows, 74 error records.
